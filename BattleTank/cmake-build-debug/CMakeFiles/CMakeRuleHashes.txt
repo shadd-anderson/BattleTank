@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+a19a68dd7743e0640c0e84db78b4c815 CMakeFiles/BattleTank-Development
+45da5f4a741e0e616d81498f2c807db7 CMakeFiles/BattleTank-Development-CLEAN
+468f82eb3925dbd7a5df4dda80134738 CMakeFiles/BattleTankEditor-Development
+02abcbe34b3fe2f8bd8ed3d1055d0ae9 CMakeFiles/BattleTankEditor-Development-CLEAN

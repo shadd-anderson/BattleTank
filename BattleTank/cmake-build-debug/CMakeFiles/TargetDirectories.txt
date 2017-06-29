@@ -1,0 +1,7 @@
+C:/Users/shadd/Unreal-Projects/Section_04/BattleTank/BattleTank/cmake-build-debug/CMakeFiles/BattleTank-Development.dir
+C:/Users/shadd/Unreal-Projects/Section_04/BattleTank/BattleTank/cmake-build-debug/CMakeFiles/PleaseIgnoreMe.dir
+C:/Users/shadd/Unreal-Projects/Section_04/BattleTank/BattleTank/cmake-build-debug/CMakeFiles/BattleTank-Development-CLEAN.dir
+C:/Users/shadd/Unreal-Projects/Section_04/BattleTank/BattleTank/cmake-build-debug/CMakeFiles/BattleTankEditor-Development.dir
+C:/Users/shadd/Unreal-Projects/Section_04/BattleTank/BattleTank/cmake-build-debug/CMakeFiles/BattleTankEditor-Development-CLEAN.dir
+C:/Users/shadd/Unreal-Projects/Section_04/BattleTank/BattleTank/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/shadd/Unreal-Projects/Section_04/BattleTank/BattleTank/cmake-build-debug/CMakeFiles/rebuild_cache.dir
